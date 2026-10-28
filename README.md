@@ -131,34 +131,7 @@ My goal is to connect engineering with quality by building features and establis
 
 </div>
 
----
 
-## 💻 Developer Terminal | Terminal de desarrollador
-
-```bash
-┌──(blazkull㉿koompadigital)-[~/profile]
-└─$ whoami
-Jhoann Acosta (@Blazkull)
-
-┌──(blazkull㉿koompadigital)-[~/profile]
-└─$ cat focus.txt
-QA Automation
-AI-Driven QA
-Software Development
-API Testing
-Quality Engineering
-IoT & Systems Integration
-
-┌──(blazkull㉿koompadigital)-[~/profile]
-└─$ ./build.sh
-
-[INFO] Building useful solutions...
-[INFO] Automating quality checks...
-[INFO] Improving software reliability...
-[OK] Ready to deliver.
-```
-
----
 
 # 🚀 Portfolio | Portafolio
 
