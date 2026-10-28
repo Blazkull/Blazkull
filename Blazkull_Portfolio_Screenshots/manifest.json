@@ -1,0 +1,139 @@
+[
+  {
+    "slug": "marpin-constructora",
+    "name": "Marpin Constructora",
+    "url": "https://constructoramarpin.com/",
+    "ok": true,
+    "screenshot": "marpin-constructora.png",
+    "http_status": 200,
+    "page_title": "INICIO - constructoramarpin.com",
+    "final_url": "https://constructoramarpin.com/"
+  },
+  {
+    "slug": "cbint",
+    "name": "CBINT",
+    "url": "https://cbint.org/",
+    "ok": true,
+    "screenshot": "cbint.png",
+    "http_status": 200,
+    "page_title": "Iglesia Centro Bíblico Internacional",
+    "final_url": "https://www.cbint.org/"
+  },
+  {
+    "slug": "lumina-digital",
+    "name": "Lumina Digital",
+    "url": "https://www.luminadigital.com.co/",
+    "ok": true,
+    "screenshot": "lumina-digital.png",
+    "http_status": 200,
+    "page_title": "Inicio - Lumina Digital Col",
+    "final_url": "https://www.luminadigital.com.co/"
+  },
+  {
+    "slug": "koompadigital",
+    "name": "KoompaDigital",
+    "url": "https://koompadigital.com/",
+    "ok": false,
+    "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://koompadigital.com/\nCall log:\n  - navigating to \"https://koompadigital.com/\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "slug": "veronica-steven-2027",
+    "name": "Veronica & Steven 2027",
+    "url": "https://veronicaandsteven2027.com/welcome",
+    "ok": true,
+    "screenshot": "veronica-steven-2027.png",
+    "http_status": 200,
+    "page_title": "Veronica & Steven | Wedding Celebration",
+    "final_url": "https://veronicaandsteven2027.com/"
+  },
+  {
+    "slug": "mafe-maxwell",
+    "name": "Mafe & Maxwell",
+    "url": "https://mafeandmaxwell.com/",
+    "ok": true,
+    "screenshot": "mafe-maxwell.png",
+    "http_status": 200,
+    "page_title": "Mafe & Maxwell | Wedding Celebration in Cartagena",
+    "final_url": "https://mafeandmaxwell.com/"
+  },
+  {
+    "slug": "noche-estrellas-goya",
+    "name": "Noche de las Estrellas Goya",
+    "url": "https://nochedelasestrellasgoya.com/",
+    "ok": true,
+    "screenshot": "noche-estrellas-goya.png",
+    "http_status": 200,
+    "page_title": "Noche de las Estrellas Goya | RSVP – A Legacy of 90 Years",
+    "final_url": "https://nochedelasestrellasgoya.com/"
+  },
+  {
+    "slug": "george-carlos",
+    "name": "George & Carlos",
+    "url": "https://georgeandcarlos.com/",
+    "ok": true,
+    "screenshot": "george-carlos.png",
+    "http_status": 200,
+    "page_title": "George and Carlos - RSVP",
+    "final_url": "https://georgeandcarlos.com/"
+  },
+  {
+    "slug": "julianna-benjamin",
+    "name": "Julianna & Benjamin",
+    "url": "https://juliannaandbenjamin.com/",
+    "ok": true,
+    "screenshot": "julianna-benjamin.png",
+    "http_status": 200,
+    "page_title": "Julianna & Benjamin | Wedding Celebration in Cartagena",
+    "final_url": "https://juliannaandbenjamin.com/"
+  },
+  {
+    "slug": "will-you-marry-me",
+    "name": "Will You Marry Me",
+    "url": "https://wellsyoumarryme.com/",
+    "ok": true,
+    "screenshot": "will-you-marry-me.png",
+    "http_status": 200,
+    "page_title": "Daniela & Maxwell | Wedding Celebration",
+    "final_url": "https://wellsyoumarryme.com/"
+  },
+  {
+    "slug": "juan-ronny",
+    "name": "Juan & Ronny",
+    "url": "https://juanronnywedding.com/",
+    "ok": true,
+    "screenshot": "juan-ronny.png",
+    "http_status": 200,
+    "page_title": "Juan & Ronny | Wedding Celebration",
+    "final_url": "https://juanronnywedding.com/"
+  },
+  {
+    "slug": "los-50-adriana",
+    "name": "Los 50 de Adriana",
+    "url": "https://los50deadriana.com/",
+    "ok": true,
+    "screenshot": "los-50-adriana.png",
+    "http_status": 200,
+    "page_title": "Adriana - 50th Birthday Celebration",
+    "final_url": "https://los50deadriana.com/"
+  },
+  {
+    "slug": "royal-blue",
+    "name": "Royal Blue",
+    "url": "https://royalblue-wren-342469.hostingersite.com/",
+    "ok": true,
+    "screenshot": "royal-blue.png",
+    "http_status": 200,
+    "page_title": "Boda Mar & Jaume",
+    "final_url": "https://royalblue-wren-342469.hostingersite.com/"
+  },
+  {
+    "slug": "sofia-khash",
+    "name": "Sofia & Khash",
+    "url": "https://sofiaandkhash.com/",
+    "ok": true,
+    "screenshot": "sofia-khash.png",
+    "http_status": 200,
+    "page_title": "Sofia & Khash - Wedding RSVP",
+    "final_url": "https://sofiaandkhash.com/"
+  }
+]
